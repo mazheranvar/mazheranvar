@@ -3,7 +3,7 @@
 <p align="center">
 🎓 BSc (Hons) Cyber Security — University of West London (RAK) <br>
 🔐 Aspiring SOC Analyst | Cloud Security | Threat Detection <br>
-📍 UAE | Targeting roles at Deloitte · PwC · EY · DESC · Emirates Group
+📍 Dubai | UAE
 </p>
 
 ---
