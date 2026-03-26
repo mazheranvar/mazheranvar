@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Mazher Anvar 👋
 
-<!--
-**mazheranvar/mazheranvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc (Hons) Cyber Security — University of West London (RAK Campus)  
+🔐 Aspiring SOC Analyst | Cloud Security Enthusiast  
+📍 UAE | Open to opportunities at Deloitte, PwC, EY, DESC, Emirates Group
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+`Python` `Kali Linux` `Wireshark` `Nmap` `Scapy` `SIEM` `Linux` `Networking`
+
+## 🚀 Featured Projects
+- 🔭 [WatchWave](link) — AI-driven Wi-Fi intrusion detection system (Final Year Project)
+- 🛡 [Inspiayr](link) — (add short description)
+- 🌐 [Enterprise Network Lab](link) — Multi-site VLAN/OSPF network design
+
+## 📫 Connect
+[LinkedIn](https://linkedin.com/in/ma7her) | mazheranvar11@gmail.com
